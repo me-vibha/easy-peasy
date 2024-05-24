@@ -1,0 +1,47 @@
+body {
+    margin: 20px;
+  }
+  
+  #blue{
+    background-color: blue;
+    padding:10px;
+  }
+  
+  #name{
+    color: yellow;
+    text-align: center;
+  }
+  #intern{
+  
+    color: skyblue;
+  
+    text-align: center;
+  
+  }
+  #social{
+  
+    color: skyblue;
+  
+    text-align: center;
+  
+  }
+  #yellow{
+    padding: 10px;
+    background: yellow;
+    text-align: center;
+  }
+   * {margin: 0}
+
+   #green{
+    color: green;
+  
+    text-align: center;
+   }
+
+  .flex{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 100%;
+      height: auto;
+  }
